@@ -1,0 +1,12 @@
+((((((Deer_Sep_Cervus_elaphus_XP_043739594.1:0.013825,
+Cattle_Sep_Bos_taurus_NP_851358.2:0.018553)0.000000:0.000001,
+(((Humans_Sep_Homo_sapiens_NP_000302.1:0.048327,
+Lemur_Sep_Galeopterus_variegatus_XP_008577176.1:0.051205)0.587000:0.020915,
+Rabbit_Sep_Oryctolagus_cuniculus_NP_001075490.1:0.064217)0.027000:0.007321,
+Mouse_Sep_Mus_musculus_NP_035300.1:0.090912)0.279000:0.012018)0.764000:0.009100,
+(Pig_Res_Sus_scrofa_NP_001008687.1:0.038107,
+Horse_Res_Equus_caballus_NP_001137270.2:0.030222)0.957000:0.039267)
+0.000000:0.000001,Sheep_Sep_Ovis_aries_NP_001009481.1:0.000001)0.773000:0.004577,
+Goat_Sep_Capra_hircus_NP_001301176.1:0.004504)0.986000:0.040096,
+Mink_Sep_Mustela_lutreola_XP_058989846.1:0.029054,
+Dog_Res_Canis_lupus_familiaris_NP_001013441.1:0.031088);
